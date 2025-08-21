@@ -38,7 +38,7 @@
             "users_count": 7,
             "scripts": [
                 {
-                    "script_name": "",
+                    "script_name": "script1",
                     "user_allocation_percent": 70,
                     "arguments": {
                         "key1": "",
@@ -75,7 +75,7 @@
                     ]
                 },
                 {
-                    "script_name": "",
+                    "script_name": "script6",
                     "user_allocation_percent": 30,
                     "data_files": [
                         {
