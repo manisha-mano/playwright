@@ -51,6 +51,39 @@
                             "rewind_on_end_of_list": true
                         }
                     ]
+                },
+                 {
+                    "script_name": "dominos-script.js",
+                    "user_allocation_percent": 20,
+                    "data_files": [
+                        {
+                            "file": "contacts.csv",
+                            "reading_mode": "random",
+                            "rewind_on_end_of_list": true
+                        }
+                    ]
+                },
+                {
+                    "script_name": "kfc-script.js",
+                    "user_allocation_percent": 10,
+                    "data_files": [
+                        {
+                            "file": "contacts.csv",
+                            "reading_mode": "random",
+                            "rewind_on_end_of_list": true
+                        }
+                    ]
+                },
+                {
+                    "script_name": "pizza-script.js",
+                    "user_allocation_percent": 30,
+                    "data_files": [
+                        {
+                            "file": "contacts.csv",
+                            "reading_mode": "random",
+                            "rewind_on_end_of_list": true
+                        }
+                    ]
                 }
             ]
         }
