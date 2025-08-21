@@ -75,7 +75,7 @@
                     ]
                 },
                 {
-                    "script_name": "pizza-script.js",
+                    "script_name": "",
                     "user_allocation_percent": 30,
                     "data_files": [
                         {
