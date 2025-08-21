@@ -38,7 +38,7 @@
             "users_count": 7,
             "scripts": [
                 {
-                    "script_name": "",
+                    "script_name": "abcd",
                     "user_allocation_percent": 70,
                     "arguments": {
                         "key1": "",
